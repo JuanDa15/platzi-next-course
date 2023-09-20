@@ -8,7 +8,8 @@
     "dev:inspect": "set PORT=3000 set NODE_OPTIONS=\"--inspect\" && next",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "export": "next export"
   },
   "keywords": [],
   "author": "",
